@@ -1,2 +1,2 @@
-# quora-scrapper
-Scrap Questions and Answers from Quora.
+# quora-scraper
+Scrape Questions and Answers from Quora.
